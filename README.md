@@ -23,3 +23,8 @@ What can you find here?
 
 - xbee_csvtokml_command -> it calls forever "conversor.py"
 
+
+Other PNG files and KML files are just an exemple that could be added to a Google Earth.
+
+Please change boundrate and port from main scripts to your preferences
+
