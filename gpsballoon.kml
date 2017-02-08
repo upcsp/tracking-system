@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<kml xmlns="http://earth.google.com/kml/2.0">
+					<Folder>
+					<Style id="icon_upc">
+    				<IconStyle>
+       				<Icon>
+       			    <href>icon_upc.png</href>
+        			</Icon>
+    				</IconStyle>
+					</Style>
+					<Placemark>
+					<name> Balloon 13:24:57,41.5625, 2.0231, 306.0 </name>
+					<styleUrl>#icon_upc</styleUrl>
+					<description></description>
+					<Point>
+					<altitudeMode>absolute</altitudeMode>
+					<coordinates>2.0231,41.5625,306.0</coordinates>
+					</Point>
+					</Placemark>
+					</Folder>
+					</kml>

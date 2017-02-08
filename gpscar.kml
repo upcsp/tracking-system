@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://earth.google.com/kml/2.0">
+
+<Folder>
+	<Style id="icon_car">
+    <IconStyle>
+        <Icon>
+          <href>icon_car.png</href>
+        </Icon>
+    </IconStyle>
+</Style>
+
+		<Placemark>
+			<name> UPC SP team 141508.0 </name>
+			<styleUrl>#icon_car</styleUrl>
+			<description></description>
+			<Point>
+				<coordinates>2.02266233333,41.5624763333,0</coordinates>
+			</Point>
+		</Placemark>
+
+		</Folder>
+	</kml>
